@@ -1,6 +1,6 @@
 # Thamindu-Sulakshana
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+...+..;Second+I'm+Thamindu+Sulakshana)](https://git.io/typing-svg)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaminduSulakshana&theme=yeblu&show_icons=true)
