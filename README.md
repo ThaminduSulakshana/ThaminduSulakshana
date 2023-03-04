@@ -7,4 +7,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,wasm,css,java,kotlin,cpp,,github,php,py,replit,vscode,xd,ps,pr,nodejs,figma&theme=light)](https://skillicons.dev)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
