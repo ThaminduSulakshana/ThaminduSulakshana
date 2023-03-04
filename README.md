@@ -10,23 +10,39 @@
 
 
 
-
-- uses: Platane/snk@v2
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+{
+  "name": "snk",
+  "description": "Generates a snake game from a github user contributions grid",
+  "version": "2.2.1",
+  "private": true,
+  "repository": "github:platane/snk",
+  "devDependencies": {
+    "@sucrase/jest-plugin": "3.0.0",
+    "@types/jest": "29.4.0",
+    "@types/node": "16.11.7",
+    "jest": "29.4.3",
+    "prettier": "2.8.4",
+    "sucrase": "3.29.0",
+    "typescript": "4.9.5"
+  },
+  "workspaces": [
+    "packages/**"
+  ],
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/__tests__/**/?(*.)+(spec|test).ts"
+    ],
+    "transform": {
+      "\\.(ts|tsx)$": "@sucrase/jest-plugin"
+    }
+  },
+  "scripts": {
+    "type": "tsc --noEmit",
+    "lint": "yarn prettier -c '**/*.{ts,js,json,md,yml,yaml}' '!packages/*/dist/**' '!svg-only/dist/**'",
+    "test": "jest --verbose --passWithNoTests --no-cache",
+    "dev:demo": "( cd packages/demo ; yarn dev )",
+    "build:demo": "( cd packages/demo ; yarn build )",
+    "build:action": "( cd packages/action ; yarn build )"
+  }
+}
