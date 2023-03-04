@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cpp,css,github,php,py,replit,vscode,xd,ps,pr,nodejs,figma&theme=light)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
