@@ -5,6 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,wasm,css,java,kotlin,cpp,,github,php,py,replit,vscode,xd,ps,pr,nodejs,figma&theme=light)](https://skillicons.dev)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ThaminduSulakshana&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
