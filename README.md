@@ -1,3 +1,3 @@
 # Thamindu-Sulakshana
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaminduSulakshana&theme=vue_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaminduSulakshana&theme=github_dark_icons=true)
