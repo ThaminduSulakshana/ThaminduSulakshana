@@ -8,7 +8,9 @@
 <a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thamindusulakshana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thamindusulakshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamindusulakshana" height="30" width="40" /></a>
 
-<a href="https://instagram.com/5ul4h4ck3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="5ul4h4ck3r" height="30" width="40" /></a>
+  
+  https://www.instagram.com/5ul4h4ck3r/
+  <a href="https://www.instagram.com/5ul4h4ck3r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="5ul4h4ck3r" height="30" width="40" /></a>
 </p>
 
 
