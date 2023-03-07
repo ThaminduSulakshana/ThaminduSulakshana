@@ -3,13 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaminduSulakshana&theme=yeblu&show_icons=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sulakshana__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sulakshana__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thamindu-sulakshana-232a39216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamindu-sulakshana-232a39216" height="30" width="40" /></a> 
-<a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/5ul4h4ck3r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="5ul4h4ck3r" height="30" width="40" /></a>
-</p>
+
 
 
 
@@ -17,3 +11,12 @@
 
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="56" height="56" /></div>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sulakshana__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sulakshana__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thamindu-sulakshana-232a39216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamindu-sulakshana-232a39216" height="30" width="40" /></a> 
+<a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/5ul4h4ck3r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="5ul4h4ck3r" height="30" width="40" /></a>
+</p>
