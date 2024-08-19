@@ -12,5 +12,5 @@ I'm <b>sula</b> , a dynamic 4th year computer science student at <b>Sri Lanka In
 <br><be>
 <p>![](https://komarev.com/ghpvc/?username=ThaminduSulakshana&color=brightgreen)
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThaminduSulakshana&color=brightgreen&style=flat" alt="ThaminduSulakshana" /> </p>
 
