@@ -1,6 +1,7 @@
-<h5>AI/ML Engineer | Deep Learning | Computer Vision | LLM | Data Science |AWS| R&D</h>
+<h5>AI/ML Engineer | Deep Learning | Computer Vision | LLM | Data Science |AWS| R&D</h5>
 <br>
 I'm <b>sula</b> , a dynamic 4th year computer science student at <b>Sri Lanka Institute of Information Technology</b>.
+<br>
 <br>
 <p align="center">
   <a href="https://github.com/ThaminduSulakshana/ThaminduSulakshana/blob/fec1bfde2f1d8364e30e7ade738d487b436c96ce/Thamindu%2024.pdf">My Resume</a> &nbsp; | &nbsp; 
