@@ -1,5 +1,4 @@
 <h5>AI/ML Engineer | Deep Learning | Computer Vision | LLM | Data Science |AWS| R&D</h5>
-<br>
 I'm <b>sula</b> , a dynamic 4th year computer science student at <b>Sri Lanka Institute of Information Technology</b>.
 <br>
 <p align="center">
