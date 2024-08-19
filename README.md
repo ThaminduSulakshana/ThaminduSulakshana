@@ -10,7 +10,6 @@ I'm <b>sula</b> , a dynamic 4th year computer science student at <b>Sri Lanka In
 <br><br>
 📫 Looking to collaborate on innovative projects or explore new opportunities? Feel free to reach out to me at <a href="mailto:thamindusulakshana@gmail.com">thamindusulakshana@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/thamindu-sulakshana-232a39216/?originalSubdomain=lk">LinkedIn</a>.
 <br><be>
-<p>![](https://komarev.com/ghpvc/?username=ThaminduSulakshana&color=brightgreen)
-</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThaminduSulakshana&color=brightgreen&style=flat" alt="ThaminduSulakshana" /> </p>
 
