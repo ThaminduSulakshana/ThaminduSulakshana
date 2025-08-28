@@ -32,7 +32,7 @@
 <div style="display: flex;">
 
   <!-- Contact Section (Left) -->
-  <div style="flex: 1;">
+  <div style="">
     <h3>
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRxcWpscXZ3cWIwOWozaXR4ZnBsYXE3d2R4eWVtOXo2eXAxem5vMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIevsoxqXHTtkHUFXp/giphy.gif" width="24" style="vertical-align: middle; margin-right: 8px;">
       Contact
