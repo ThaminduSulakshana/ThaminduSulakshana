@@ -1,11 +1,6 @@
 <!-- <h5>AI/ML Engineer | Deep Learning | Generative AI | Computer Vision | LLM | Data Science |AWS| R&D</h5>
 <br> -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThaminduSulakshana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThaminduSulakshana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
 <h5>
 <p>
   <a href="https://github.com/ThaminduSulakshana/ThaminduSulakshana/blob/fec1bfde2f1d8364e30e7ade738d487b436c96ce/Thamindu%2024.pdf">Resume</a> |
