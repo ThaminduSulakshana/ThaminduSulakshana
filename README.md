@@ -1,23 +1,19 @@
-<h5>AI/ML Engineer | Deep Learning | Generative AI | Computer Vision | LLM | Data Science |AWS| R&D</h5>
-<br>
+<!-- <h5>AI/ML Engineer | Deep Learning | Generative AI | Computer Vision | LLM | Data Science |AWS| R&D</h5>
+<br> -->
 
-<p align="center">
+<h5>
+<p>
   <a href="https://github.com/ThaminduSulakshana/ThaminduSulakshana/blob/fec1bfde2f1d8364e30e7ade738d487b436c96ce/Thamindu%2024.pdf">Resume</a> |
   <a href="https://www.coursera.org/learner/thamindu-sulakshana-1445">Certifications</a> |
   <a href="https://medium.com/@thamindusulakshana">Articles</a> |
   <a href="https://www.linkedin.com/in/thamindu-sulakshana-232a39216/?originalSubdomain=lk">LinkedIn</a>
 </p>
+</h5    >
 
-📫 Looking to collaborate on innovative projects or explore new opportunities? Feel free to reach out to me at <a href="mailto:thamindusulakshana@gmail.com">thamindusulakshana@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/thamindu-sulakshana-232a39216/?originalSubdomain=lk">LinkedIn</a>.
-<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-  <div align="center">
 
-  🔬 **Research Areas**: Deep Learning, Computer Vision, NLP, Generative AI
-  🚀 **Project Types**: Open Source, Research, Commercial Applications  
-  🌱 **Learning**: Latest AI/ML trends, Cloud Architecture, Model Optimization
-
-  </div>
 
   <div>
 
