@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 10 April 2026 - To: 17 April 2026
 
 Dart        43 mins               █████████████████████▓░░░   86.98 %
 JSON        5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
