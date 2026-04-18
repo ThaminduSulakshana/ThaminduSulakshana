@@ -1,7 +1,7 @@
 
-<a href="https://thamindusulakshana.netlify.app/">Thamindu Sulakshana</a>
 <h5>
 <p>
+  <a href="https://thamindusulakshana.netlify.app/">Thamindu Sulakshana</a>
   <a href="https://github.com/ThaminduSulakshana/ThaminduSulakshana/blob/fec1bfde2f1d8364e30e7ade738d487b436c96ce/Thamindu%2024.pdf">Resume</a> |
   <a href="https://www.coursera.org/learner/thamindu-sulakshana-1445">Certifications</a> |
   <a href="https://medium.com/@thamindusulakshana">Articles</a> |
