@@ -12,11 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-Dart        43 mins               █████████████████████▓░░░   86.98 %
-JSON        5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Batchfile   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+JavaScript        1 hr 8 mins           ███████████░░░░░░░░░░░░░░   43.48 %
+Dart              43 mins               ███████░░░░░░░░░░░░░░░░░░   27.61 %
+Java              20 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Java Properties   7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Git Config        7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
