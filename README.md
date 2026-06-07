@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2026 - To: 04 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Dart              21 mins               █████████████░░░░░░░░░░░░   51.51 %
-Java Properties   11 mins               ███████░░░░░░░░░░░░░░░░░░   28.44 %
-Groovy            3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Other             2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Java Properties   25 mins               ████████▒░░░░░░░░░░░░░░░░   33.37 %
+Dart              21 mins               ███████░░░░░░░░░░░░░░░░░░   28.50 %
+YAML              17 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+Other             7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
 ```
 
 <!--END_SECTION:waka-->
