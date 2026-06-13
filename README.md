@@ -12,11 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2026 - To: 11 June 2026
+From: 05 June 2026 - To: 12 June 2026
 
-YAML              15 mins               ███████████░░░░░░░░░░░░░░   44.64 %
-Java Properties   13 mins               █████████▓░░░░░░░░░░░░░░░   39.21 %
-Other             5 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
